@@ -346,7 +346,7 @@ export default function Portfolio({ locale }: { locale: Locale }) {
               <Github size={19} />
             </a>
             <a
-              href="https://www.linkedin.com/"
+              href="https://linkedin.com/in/olme-marin-sanchez-5640bb57"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn (update profile URL)"
